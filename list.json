@@ -1,0 +1,378 @@
+[
+  {
+    "href": "/2019/01/02/algo-with-hawstein-and-chengyun.html",
+    "title": "#94 与 Hawstein 和左程云聊算法和数据结构"
+  },
+  {
+    "href": "/2018/08/30/the-wechat-mini-programs-are-very-popular.html",
+    "title": "#93 微信小程序火了！"
+  },
+  {
+    "href": "/2018/07/08/how-to-build-blockchain-from-scratch.html",
+    "title": "#92 How to build blockchain from scratch?"
+  },
+  {
+    "href": "/2017/12/12/why-vscode-is-better-than-atom.html",
+    "title": "#91 Why VSCode is better than Atom?"
+  },
+  {
+    "href": "/2017/11/22/new-database-go-and-rust-with-cto-of-pingcap.html",
+    "title": "#90 和 PingCAP CTO 畅谈数据库和编程语言"
+  },
+  {
+    "href": "/2016/11/08/bittiger-with-dingding.html",
+    "title": "#89 和玎玎聊聊如何搭建精益创业团队"
+  },
+  {
+    "href": "/2016/10/26/talk-with-modao.html",
+    "title": "#88 与墨刀创始人张元一聊创业从 0 到 1"
+  },
+  {
+    "href": "/2016/09/12/ipip-gaochunhui.html",
+    "title": "#87 和互联网老兵高春辉聊 IPIP.net"
+  },
+  {
+    "href": "/2016/08/08/xitu-yinm.html",
+    "title": "#86 和『掘金』创始人阴明聊聊创业和技术"
+  },
+  {
+    "href": "/2016/06/11/all-about-remote-working.html",
+    "title": "#85 这次我们聊聊远程工作"
+  },
+  {
+    "href": "/2016/03/03/robbin2.html",
+    "title": "#84 继续跟 Robbin 聊聊技术人的'战略'与'战术'"
+  },
+  {
+    "href": "/2016/01/19/talk-with-jan-about-ehtereum.html",
+    "title": "#83 这次我们聊聊超酷的Ethereum"
+  },
+  {
+    "href": "/2015/12/27/talk-with-jan-about-bitcoin-and-blockchain.html",
+    "title": "#82 聊聊比特币背后的技术和Blockchain"
+  },
+  {
+    "href": "/2015/11/16/talk-with-eric-about-ms.html",
+    "title": "#81 和微软的爱恨情仇"
+  },
+  {
+    "href": "/2015/09/21/talk-with-qixiang-about-toutiaoio.html",
+    "title": "#80 码农周刊和开发者头条：技术人的干货分享平台"
+  },
+  {
+    "href": "/2015/08/31/hakcing-in-dali.html",
+    "title": "#79 隐居大理钻研技术的 hacker"
+  },
+  {
+    "href": "/2015/08/16/vuejs-creator-evan-you.html",
+    "title": "#78 和 Vue.js 框架的作者聊聊前端框架开发背后的故事"
+  },
+  {
+    "href": "/2015/08/03/javaeye-robbin.html",
+    "title": "#77 专访原 JavaEye 的创始人 Robbin"
+  },
+  {
+    "href": "/2015/02/13/docker-introduction.html",
+    "title": "#76 与马道长聊 Docker"
+  },
+  {
+    "href": "/2015/01/29/growth-hacking-in-strikingly.html",
+    "title": "#75 Strikingly 的 Growth Hacking 之路"
+  },
+  {
+    "href": "/2014/12/29/talk-with-siwei-about-testelf-growth.html",
+    "title": "#74 testelf 创始人宋师伟聊产品成长经验"
+  },
+  {
+    "href": "/2014/12/21/talk-with-elfe-about-baixing-sdk.html",
+    "title": "#73 与百姓网架构师艾芙聊职业发展和工程师文化"
+  },
+  {
+    "href": "/2014/11/25/thoughts-about-remote-life.html",
+    "title": "#72 自由的思考：远程工作者的成长之路"
+  },
+  {
+    "href": "/2014/10/31/railsservice-with-luoxin.html",
+    "title": "#71 RailsService: Create microservices with(or without) Rails"
+  },
+  {
+    "href": "/2014/10/30/internet-of-dusty-things-with-daniel.html",
+    "title": "#70 Internet of Dusty Things"
+  },
+  {
+    "href": "/2014/10/28/rubymotion-with-zetao.html",
+    "title": "#69 50 分钟用 RubyMotion 开发 DiggMotion iPhone App"
+  },
+  {
+    "href": "/2014/10/27/continuous-integration-with-lijianye.html",
+    "title": "#68 从持续集成的角度看“云”"
+  },
+  {
+    "href": "/2014/10/25/experience-built-vpncloud.html",
+    "title": "#67 用 Ruby 构建 PB 级数据传输平台背后的故事"
+  },
+  {
+    "href": "/2014/10/23/shoutv-with-ruby.html",
+    "title": "#66 Ruby 在多语言的视频直播项目中的应用"
+  },
+  {
+    "href": "/2014/10/22/work-after-ship-code-with-dafeng.html",
+    "title": "#65 I've shipped the Code. What's next?"
+  },
+  {
+    "href": "/2014/10/20/rubyconf-2014-vincent.html",
+    "title": "#64 Ruby 的快和慢 - 采访 2014 Ruby 中国大会主讲谢文威"
+  },
+  {
+    "href": "/2014/10/19/build-search-engine.html",
+    "title": "#63 与微搜索创始人丁彦聊搜索引擎技术"
+  },
+  {
+    "href": "/2014/08/18/talk-about-avos-cloud.html",
+    "title": "#62 与江宏聊 AVOS Cloud"
+  },
+  {
+    "href": "/2014/08/11/hackathon.html",
+    "title": "#61 采访SegmentFault2014黑客马拉松北京场冠军团队"
+  },
+  {
+    "href": "/2014/08/07/machine-learning-with-ding-lei.html",
+    "title": "#60 与丁磊聊机器学习和数据科学"
+  },
+  {
+    "href": "/2014/07/22/node-webkit-with-rogerwang.html",
+    "title": "#59 与 Roger Wang 聊 node-webkit"
+  },
+  {
+    "href": "/2014/07/04/talk-with-chi-jian-qiang.html",
+    "title": "#58 跟池建强聊阅读，写作以及人生元编程"
+  },
+  {
+    "href": "/2014/06/23/interview-with-andor-chen-about-self-publish.html",
+    "title": "#57 聊聊技术类书籍的翻译和自出版"
+  },
+  {
+    "href": "/2014/06/16/talk-with-zhang-gong-and-zhi-cheng-about-data-visualization.html",
+    "title": "#56 谈谈空间数据以及数据可视化"
+  },
+  {
+    "href": "/2014/05/22/talk-about-finddog.html",
+    "title": "#55 和叶俊亨聊找狗网"
+  },
+  {
+    "href": "/2014/05/13/interview-with-xiaobo-about-maker.html",
+    "title": "#54 和小波一起聊聊Maker和开源硬件"
+  },
+  {
+    "href": "/2014/05/09/job-interview-at-thoughtworks.html",
+    "title": "#53 跟 ThoughtWorks 的面试官聊聊面试这件事"
+  },
+  {
+    "href": "/2014/04/28/the-story-of-jianshu.html",
+    "title": "#52 简书的故事"
+  },
+  {
+    "href": "/2014/04/21/interview-with-ari-lerner.html",
+    "title": "#51 Interview with Ari Lerner about AngularJS"
+  },
+  {
+    "href": "/2014/04/08/interview-with-dong-jing.html",
+    "title": "#50 和Qubit的工程师聊聊A/B testing Node 和 Ruby"
+  },
+  {
+    "href": "/2014/04/04/talk-with-jianghaizhou.html",
+    "title": "#49 和姜海舟聊聊互联网金融"
+  },
+  {
+    "href": "/2014/03/24/interview-with-sting.html",
+    "title": "#48 和Sting聊聊Full Stack developer"
+  },
+  {
+    "href": "/2014/03/17/interview-with-binghe.html",
+    "title": "#47 和中国著名Common Lisp程序员冰河聊聊Lisp"
+  },
+  {
+    "href": "/2014/03/10/interview-with-laowei.html",
+    "title": "#46 和为知笔记的CTO聊聊他的经历和技术"
+  },
+  {
+    "href": "/2014/02/24/first-nodejs.html",
+    "title": "#45 和《深入浅出Node.js》作者朴灵一起聊聊Node.js"
+  },
+  {
+    "href": "/2014/02/18/interview-with-allenown.html",
+    "title": "#44 跟 DEVCORE 的 allenown 聊聊黑客社群與網站安全"
+  },
+  {
+    "href": "/2014/01/19/happy-birthday-to-teahour.html",
+    "title": "#43 Teahour.FM 一周岁生日特期"
+  },
+  {
+    "href": "/2013/12/31/interview-with-qiuliang-about-bitcoin.html",
+    "title": "#42 跟貔貅交易所的邱亮聊聊比特币"
+  },
+  {
+    "href": "/2013/12/23/interview-with-quakewang-about-chanyouji.html",
+    "title": "#41 跟 Quake Wang 聊蝉游记"
+  },
+  {
+    "href": "/2013/12/16/software-industry-in-taiwan.html",
+    "title": "#40 聊台灣軟體業失落的十年"
+  },
+  {
+    "href": "/2013/11/18/lessons-learned-from-running-saas-products.html",
+    "title": "#39 SaaS 产品血泪史"
+  },
+  {
+    "href": "/2013/11/11/how-to-find-great-engineers.html",
+    "title": "#38 与 GuruDigger 创始人蔡金聊创业团队如何寻找靠谱工程师"
+  },
+  {
+    "href": "/2013/11/05/interview-with-luwei.html",
+    "title": "#37 和鲁葳聊聊软件咨询公司是如何工作的"
+  },
+  {
+    "href": "/2013/10/24/interview-with-xushiwei-about-cloud-storage-and-self-motivate.html",
+    "title": "#36 和七牛的许式伟聊云存储以及做有追求的程序员"
+  },
+  {
+    "href": "/2013/10/21/talking-remote-work-with-allen-wei.html",
+    "title": "#35 和魏伦谈远程团队和远程工作"
+  },
+  {
+    "href": "/2013/10/14/interview-with-tstyle11-about-kechenggezi.html",
+    "title": "#34 和李天放聊课程格子创业故事"
+  },
+  {
+    "href": "/2013/09/30/interview-with-founders-of-workor.html",
+    "title": "#33 和workor的两位创始人聊聊他们的创业故事"
+  },
+  {
+    "href": "/2013/09/16/interview-with-zhao-bo-about-jianshu.html",
+    "title": "#32 跟简书的赵波聊从大公司到创业"
+  },
+  {
+    "href": "/2013/09/11/how-to-run-a-consulting-firm-by-maxime.html",
+    "title": "#31 跟易空海创始人 Maxime 聊如何运作一个咨询公司"
+  },
+  {
+    "href": "/2013/09/02/wearable-devices-with-sxzz.html",
+    "title": "#30 可穿戴设备盘点和预测"
+  },
+  {
+    "href": "/2013/08/26/independent-developer-tualatrix.html",
+    "title": "#29 和 Ubuntu Tweak 作者图拉鼎聊聊独立开发者"
+  },
+  {
+    "href": "/2013/08/21/strikingly-yc-and-startup.html",
+    "title": "#28 和Strikingly的CTO Dafeng聊聊他们和Y-Combinator的故事"
+  },
+  {
+    "href": "/2013/08/05/interview-with-tinyfool-on-xinzazhi.html",
+    "title": "#27 与 Tinyfool 聊新媒体、创业经历和团队建设"
+  },
+  {
+    "href": "/2013/07/29/the-story-of-jinshuju.html",
+    "title": "#26 和陈金洲聊金数据创业故事"
+  },
+  {
+    "href": "/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html",
+    "title": "#25 和又拍云(UPYun)的邵海杨聊运维"
+  },
+  {
+    "href": "/2013/07/15/lean-startup-with-knewone.html",
+    "title": "#24 和knewone的李路聊聊技术和精益创业"
+  },
+  {
+    "href": "/2013/07/12/startup-discussion-with-kgen.html",
+    "title": "#23 与 Kgen 聊创业经历和感悟"
+  },
+  {
+    "href": "/2013/07/09/gfw-and-vpncloud.html",
+    "title": "#22 GFW 技术研究和云梯产品故事"
+  },
+  {
+    "href": "/2013/07/01/tisiwi-and-seed-funding.html",
+    "title": "#21 跟天使湾聚变计划负责人王磊聊天使投资"
+  },
+  {
+    "href": "/2013/06/24/lets-talk-about-underlying-development-and-ruby-vm.html",
+    "title": "#20 跟大牛们一起讨论底层开发和 Ruby VM"
+  },
+  {
+    "href": "/2013/06/17/review-singapore-reddotrubyconf.html",
+    "title": "#19 聊聊新加坡，聊聊RedDotRubyConf"
+  },
+  {
+    "href": "/2013/06/03/databases-with-eric-redmond.html",
+    "title": "#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事"
+  },
+  {
+    "href": "/2013/05/27/let-s-talk-about-crack-and-mruby.html",
+    "title": "#17 跟大牛们一起来聊聊 Crack 和 MRuby"
+  },
+  {
+    "href": "/2013/05/20/interview-with-shining-ray.html",
+    "title": "#16 采访暴走漫画 CTO 曹力(@ShiningRay) - 谈架构演进"
+  },
+  {
+    "href": "/2013/05/13/interview-with-xinzhi-about-36kr.html",
+    "title": "#15 采访36氪的技术总监 - 项新知"
+  },
+  {
+    "href": "/2013/05/06/become-a-better-programmer-with-avdi-grimm.html",
+    "title": "#14 Become a Better Programmer with Avdi Grimm"
+  },
+  {
+    "href": "/2013/04/22/interview-with-fred-wu-about-opensource.html",
+    "title": "#13 采访 Fred Wu 以及开源实践"
+  },
+  {
+    "href": "/2013/04/15/interview-with-sunshineg-on-marketing.html",
+    "title": "#12 SegmentFault 和黑客马拉松之运营篇"
+  },
+  {
+    "href": "/2013/04/08/interview-with-rei-about-writingsio.html",
+    "title": "#11 和Rei一起聊聊他的创业项目 -- Writings.io"
+  },
+  {
+    "href": "/2013/04/02/open-source-software-and-gitcafe.html",
+    "title": "#10 开源软件和GitCafe"
+  },
+  {
+    "href": "/2013/04/01/interview-with-dhh-about-rails.html",
+    "title": "#9 与Rails创始人DHH聊Rails"
+  },
+  {
+    "href": "/2013/03/25/story-of-gitlab.html",
+    "title": "#8 GitLab 的故事"
+  },
+  {
+    "href": "/2013/03/16/agile-and-scrum-with-xuyi.html",
+    "title": "#7 你应该知道的 Agile 和 Scrum"
+  },
+  {
+    "href": "/2013/03/11/git-github-and-gitlab.html",
+    "title": "#6 Git GitHub and GitLab"
+  },
+  {
+    "href": "/2013/03/05/hardware-for-developers.html",
+    "title": "#5 Hardware for developers"
+  },
+  {
+    "href": "/2013/02/19/interview-with-ashchan-on-mobile-development.html",
+    "title": "#4 Interview with Ashchan on app development"
+  },
+  {
+    "href": "/2013/02/09/personal-growth-by-xdite.html",
+    "title": "#3 Interview with xdite on personal growth"
+  },
+  {
+    "href": "/2013/02/03/learning-ruby-and-rails.html",
+    "title": "#2 How to Learn Ruby and Rails"
+  },
+  {
+    "href": "/2013/01/19/1st-beginning.html",
+    "title": "#1 The beginning of Teahour.fm show"
+  }
+]

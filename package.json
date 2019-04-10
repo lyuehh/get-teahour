@@ -1,0 +1,16 @@
+{
+  "name": "get-teahour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-link.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sindresorhus/slugify": "^0.9.1",
+    "slugify": "^1.3.4"
+  }
+}
